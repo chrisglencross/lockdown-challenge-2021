@@ -7,7 +7,7 @@ Don't look in the scripts directory if you'd prefer not to see spoilers.
 
 ## Contents
 
-Materials are in the docs directory.
+Materials are in the docs directories.
 
 * Day 1: Parity bits
 * Day 2: Pseudo Random Number Generator
